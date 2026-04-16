@@ -1,0 +1,24 @@
+breast-cancer-advanced/
+│
+├── model/
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── model.pkl
+│   └── scaler.pkl
+│
+├── app/
+│   ├── app.py
+│   ├── static/
+│   │   └── style.css
+│   └── templates/
+│       └── index.html
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── outputs/
+│   ├── confusion_matrix.png
+│   └── feature_importance.png
+│
+├── requirements.txt
+└── README.md
